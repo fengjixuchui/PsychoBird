@@ -2,9 +2,9 @@
 
 I'm a 17 year old developer from the United States that's interested in iOS development and jailbreaking. 
 
-Up until this point, I've developed two projects for personal iOS research. RevelariOS - a technical and expandable memory scanner meant for developers, and SDBG - a basic "debugger" for the smaller tasks where LLDB isn't needed. 
+My current projects are RevelariOS, a technical and expandable memory scanner meant for developers, and SDBG - a basic "debugger" for the smaller tasks where LLDB isn't needed. 
 
-Right now, I'm working on a substrate-like hooking library for XNU and heavily researching iOS internals to develop a jailbreak using pre-existing exploits. I run a technical blog (linked on my GitHub profile) where I try to share my knowledge and provide insight into my projects. I try to keep it -somewhat- updated. 
+Right now, I'm working on a substrate-like hooking library for XNU and heavily researching iOS internals to develop a jailbreak using pre-existing exploits. My technical blog is linked on my profile where I try to share knowledge and provide insight into my projects. I try to keep it -somewhat- updated. 
 
 My email is also on my profile - feel free to reach out.
 
