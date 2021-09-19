@@ -1,26 +1,7 @@
 ### Hi, I'm Nick // PsychoBird (he/him)
 
-I'm a 17 year old developer from the United States that's interested in iOS development and jailbreaking. 
+I'm a freshman in college from the United States that's interested in iOS development and jailbreaking. 
 
-My current projects are RevelariOS, a technical and expandable memory scanner meant for developers, and SDBG - a basic "debugger" for the smaller tasks where LLDB isn't needed. 
+My current projects are RevelariOS, a technical and expandable memory scanner meant for developers, and Capere, a hooking library for Apple Silicon. Recently, I have been researching iOS internals and vulnerabilities with the intention to begin bug hunting. Linked in my profile is my blog where I provide insight into various projects of mine and write about other security related topics. I try to keep it -somewhat- updated. 
 
-Right now, I'm working on a substrate-like hooking library for XNU and heavily researching iOS internals to develop a jailbreak using pre-existing exploits. My technical blog is linked on my profile where I try to share knowledge and provide insight into my projects. I try to keep it -somewhat- updated. 
-
-My email is also on my profile - feel free to reach out.
-
-
-
-<!--
-**PsychoBird/PsychoBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My email is on my profile - feel free to reach out.
